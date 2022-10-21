@@ -1,4 +1,5 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/HaOUG5LZPYtNeUVigY/giphy.gif" width="60" height="65"> there, I'm Đức Hoàng</h2>
+<div align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"></div> <br/>
+<h2 align="center">Hi there, I'm Đức Hoàng</h2>
 
 <h2 align="left"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:</h2>
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
@@ -27,7 +28,7 @@
 </p>
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="60">&nbsp;&nbsp;GitHub Stats</h3>
+<h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="60">&nbsp;&nbsp;GitHub Stats</h2>
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" /></div>
 

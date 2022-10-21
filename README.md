@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
 &emsp;&emsp;🎒 I’m currently studying at FPT university <br/>
-&emsp;&emsp;💻 I’m currently learning Spring Boot and .NET <br/>
+&emsp;&emsp;💻 I'vs been learning Spring Boot and .NET for nearly a half-year and still working harder on mastering these<br/>
 &emsp;&emsp;💼 I’m seeking for an intern in Java Back-end developer position <br/>
 &emsp;&emsp;📫 Contact with me via [Email](duchoang4195@gmail.com) <br/>
 &emsp;&emsp;⚡ Fun fact: I love playing football and listening to soft songs <br/>

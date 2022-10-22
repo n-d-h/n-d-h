@@ -9,9 +9,9 @@
 &emsp;&emsp;💼 I’m seeking for an intern in Java Back-end developer position <br/>
 &emsp;&emsp;📫 Contact with me via [Email](duchoang4195@gmail.com) <br/>
 &emsp;&emsp;⚡ Fun fact: I love playing football and listening to soft songs <br/>
-</br>
+</br><br/><br/>
 
-## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="55" height="50">  Languages and Tools:
+## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="67" height="55">  Languages and Tools:
 
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
@@ -30,7 +30,7 @@
 </p>
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="60">&nbsp;&nbsp;GitHub Stats</h2>
+<h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="72" height="60">&nbsp;&nbsp;GitHub Stats</h2>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />

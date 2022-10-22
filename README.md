@@ -29,6 +29,8 @@
 </br>
 
 <h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="60">&nbsp;&nbsp;GitHub Stats</h2>
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" /></div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
+</div>
 

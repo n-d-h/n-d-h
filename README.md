@@ -13,7 +13,7 @@
 
 </br><br/><br/>
 
-## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="67" height="55">  Languages and Tools:
+## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="67" height="55">  Languages & Tools:
 
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  

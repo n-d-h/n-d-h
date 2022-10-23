@@ -67,7 +67,7 @@
 
 
 <div align="center">
-  :heart_eyes: Thanks for reading! Have a nice day! :wink: <br/>
+  🤜 Thanks for reading! Have a nice day! 🤛 <br/>
   &copy; 2022 duchoang
 </div>
 

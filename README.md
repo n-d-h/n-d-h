@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"></div> <br/>
-<h2 align="center">Hi there, I'm Duc Hoang</h2>
+<h1 align="center">Hi there, I'm Duc Hoang</h2>
 
-<h2 align="left"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:</h2>
+## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
 &emsp;&emsp;🎒 I’m currently a sophomore at FPT University - HCMC Campus<br/>
@@ -32,9 +32,42 @@
 </p>
 </br>
 
-<h2 align="left"><img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="72" height="60">&nbsp;&nbsp;GitHub Stats</h2>
+## <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="72" height="60">&nbsp;&nbsp;GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=n-d-h&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=n-d-h&theme=react-dark"/>
+</div>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="62px" height="60px"> For More Information, Please Contact Me Via
+<p align="center">
+  <a href="mailto:duchoang4195@gmail.com" >
+    <img align="center" alt="DucHoang | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/n-d-h/" target="_blank">
+    <img align="center" alt="DucHoang | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/dwck.hg/" target="_blank">
+      <img align="center" alt="DucHoang | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/dwck_hg/" target="_blank">
+    <img align="center" alt="DucHoang | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/n-d-h" target="_blank">
+    <img align="center" alt="DucHoang | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+
+
+<div align="center">
+  :heart_eyes: Thanks for reading! Have a nice day! :wink: <br/>
+  &copy; 2022 duchoang
 </div>
 

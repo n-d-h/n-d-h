@@ -4,12 +4,13 @@
 ## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
-&emsp;&emsp;🎒 I’m currently a sophomore at FPT University - HCMC Campus<br/>
-&emsp;&emsp;:books: My major is Software Engineering <br/>
+&emsp;&emsp;👨‍🎓 I’m currently a sophomore at FPT University - HCMC Campus<br/>
+&emsp;&emsp;📚 My major is Software Engineering <br/>
 &emsp;&emsp;💻 I've been learning Spring Boot and .NET for nearly a half-year <br/>
-&emsp;&emsp;⚡ Fun fact: I love playing football and listening to soft songs <br/>
+&emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>
+&emsp;&emsp;🎯 Fun fact: I love playing football and listening to soft songs <br/>
 &emsp;&emsp;💼 I’m seeking for an intern in Java Back-end developer position <br/>
-&emsp;&emsp;📫 Contact me via my [Email](duchoang4195@gmail.com) <br/>
+
 
 </br><br/><br/>
 

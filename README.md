@@ -45,24 +45,21 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="62px" height="60px"> For More Information, Please Contact Me Via
 <p align="center">
   <a href="mailto:duchoang4195@gmail.com" >
-    <img align="center" alt="DucHoang | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="DucHoang | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/n-d-h/" target="_blank">
-    <img align="center" alt="DucHoang | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="DucHoang | Linkedin" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/dwck.hg/" target="_blank">
-      <img align="center" alt="DucHoang | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="DucHoang | Facebook" width="28px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/dwck_hg/" target="_blank">
-    <img align="center" alt="DucHoang | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+    <img align="center" alt="DucHoang | Instagram" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> 
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/n-d-h" target="_blank">
-    <img align="center" alt="DucHoang | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
   
 
 

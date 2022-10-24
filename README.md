@@ -9,7 +9,7 @@
 &emsp;&emsp;💻 I've been learning Spring Boot and .NET for nearly a half-year <br/>
 &emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>
 &emsp;&emsp;🎯 Fun fact: I love playing football and listening to soft songs <br/>
-&emsp;&emsp;💼 I’m seeking for an intern in Java Back-end developer position <br/>
+&emsp;&emsp;💼 I’m seeking an internship opportunity in Java Back-end developer position<br/>
 
 
 </br><br/><br/>

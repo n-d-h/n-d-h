@@ -46,7 +46,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="62px" height="60px"> For More Information, Please Contact Me Via
 <p align="center">
-  <a href="mailto:duchoang4195@gmail.com" >
+  <a href="mailto:hoangduc.codes@gmail.com" >
     <img align="center" alt="DucHoang | Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
@@ -67,6 +67,6 @@
 
 <div align="center">
   🤜 Thanks for reading! Have a nice day! 🤛 <br/>
-  &copy; 2022 duchoang
+  &copy; duchoang
 </div>
 

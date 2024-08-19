@@ -4,7 +4,7 @@
 ## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
-&emsp;&emsp;👨‍🎓 I’m currently in final year at FPT University - HCMC Campus<br/>
+&emsp;&emsp;👨‍🎓 I recently graduated from FPT University<br/>
 &emsp;&emsp;📚 My major is Software Engineering <br/>
 &emsp;&emsp;💻 I've been learning Spring Boot and .NET <br/>
 &emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>

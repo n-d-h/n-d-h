@@ -9,7 +9,7 @@
 &emsp;&emsp;💻 I've been learning Spring Boot and .NET <br/>
 &emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>
 &emsp;&emsp;🎯 Fun fact: I love playing football and listening to soft songs <br/>
-&emsp;&emsp;💼 I’m seeking a Fresher-level Backend Developer position <br/>
+&emsp;&emsp;💼 I’m seeking a Software Developer position <br/>
 
 
 </br><br/><br/>

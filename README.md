@@ -4,12 +4,12 @@
 ## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="62" height="60"> &nbsp;&nbsp;A Little About Me:
 <img align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300">
 
-&emsp;&emsp;👨‍🎓 I recently graduated from FPT University<br/>
+&emsp;&emsp;👨‍🎓 I graduated from FPT University in June 2024<br/>
 &emsp;&emsp;📚 My major is Software Engineering <br/>
-&emsp;&emsp;💻 I've been learning Spring Boot and .NET <br/>
+&emsp;&emsp;💻 I have experience in Java, Spring Boot, ReactJS and Flutter <br/>
 &emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>
 &emsp;&emsp;🎯 Fun fact: I love playing football and listening to soft songs <br/>
-&emsp;&emsp;💼 I’m seeking a Software Developer position <br/>
+&emsp;&emsp;💼 I’m seeking a suitable Software Developer position <br/>
 
 
 </br><br/><br/>

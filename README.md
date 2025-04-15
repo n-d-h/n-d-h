@@ -33,15 +33,15 @@
 </p>
 </br>
 
-## <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="72" height="60">&nbsp;&nbsp;GitHub Stats
+<!-- ## <img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif" width="72" height="60">&nbsp;&nbsp;GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-d-h&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n-d-h&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="duchoang" />
 </div>
-<div align="center">
+ <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=n-d-h&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=n-d-h&theme=react-dark"/>
-</div>
+</div> -->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="62px" height="60px"> For More Information, Please Contact Me Via
 <p align="center">

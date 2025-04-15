@@ -9,7 +9,6 @@
 &emsp;&emsp;💻 I have experience in Java, Spring Boot, ReactJS and Flutter <br/>
 &emsp;&emsp;🏡 I'm living in Ho Chi Minh City, Vietnam <br/>
 &emsp;&emsp;🎯 Fun fact: I love playing football and listening to soft songs <br/>
-&emsp;&emsp;💼 I’m seeking a suitable Software Developer position <br/>
 
 
 </br><br/><br/>
